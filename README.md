@@ -1,5 +1,6 @@
 # Awesome Heterogeneous Nerual Network
 A List of Heterogeneous Nerual Network Pappers
+![Awesome]('Awesome.png')
 
 ## Pre-Learning Materials
   - [Graph Structure Knowledge](https://www.bilibili.com/video/BV16v4y1b7x7/?spm_id_from=333.788&vd_source=d496a4b7477de878a88c60b654607663)

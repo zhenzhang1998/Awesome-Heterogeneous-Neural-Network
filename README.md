@@ -29,6 +29,6 @@
   - [Heterogeneous Graph Transformer](https://arxiv.org/pdf/2003.01332.pdf) : HGT(2020 WWW)
   - [Heterogeneous Graph Neural Network via Attribute Completion](https://links.jianshu.com/go?to=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fabs%2F10.1145%2F3442381.3449914) : HGNN-AC(2021 WWW)
   - [Multiplex Heterogeneous Graph Convolutional Network](https://arxiv.org/pdf/2208.06129) : MHGCN(2022 KDD)
-  - [Meta-node: A Concise Approach to Effectively Learn Complex Relationships in Heterogeneous Graphs](https://arxiv.org/abs/2210.14480) : (2022)
+  - [Meta-node: A Concise Approach to Effectively Learn Complex Relationships in Heterogeneous Graphs](https://arxiv.org/abs/2210.14480) : Meta-node(2022)
   - [Simple and Efficient Heterogeneous Graph Neural Network](http://arxiv.org/abs/2207.02547) : SeHGNN(AAAI 2023)
   - updating...

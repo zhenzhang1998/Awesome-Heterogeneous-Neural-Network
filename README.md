@@ -14,6 +14,8 @@ A List of Heterogeneous Nerual Network Pappers
   - what the means of n-hops ?
   - why the number of n-hops is small (< 3 usually) ?
   - what the means of neighbor-sample ?
+  - what the advantages of metapath-based methods ?
+  - what the advantages of neighbor-sample-based methods ?
 
 ## Heterogeneous Nerual Network
   - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103v4.pdf) : RGCN(2018 The Semantic Web)

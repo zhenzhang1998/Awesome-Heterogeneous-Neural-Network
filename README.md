@@ -1,5 +1,5 @@
 # Awesome Heterogeneous Nerual Network
-A List of Heterogeneous Nerual Network Pappers 🎈🎈
+🎉🎉🎉 A List of Heterogeneous Nerual Network Pappers 🎉🎉🎉
 ![Awesome](awesome.png)
 
 ## Pre-Learning Materials

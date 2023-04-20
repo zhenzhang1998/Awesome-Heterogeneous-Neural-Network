@@ -18,6 +18,7 @@ A List of Heterogeneous Nerual Network Pappers
   - what the advantages of neighbor-sample-based methods ?
 
 ## Heterogeneous Nerual Network
+  - [Inductive Representation Learning on Large Graphs](https://export.arxiv.org/pdf/1706.02216.pdf) : GraphSAGE(2017 NeurIPS)
   - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103v4.pdf) : RGCN(2018 The Semantic Web)
   - [Heterogeneous Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3292500.3330961) : HetGNN(2019 KDD)
   - [Graph Transformer Networks](https://export.arxiv.org/pdf/1911.06455.pdf) : Graph Transformer Networks(2019 NeurIPS)

@@ -1,6 +1,9 @@
 # Awesome Heterogeneous Nerual Network
 A List of Heterogeneous Nerual Network Pappers
 
+## Pre-Learning Materials
+  - [Graph Structure Knowledge](https://www.bilibili.com/video/BV16v4y1b7x7/?spm_id_from=333.788&vd_source=d496a4b7477de878a88c60b654607663)
+  - [GCN](https://www.bilibili.com/video/BV1Hs4y157Ls/?spm_id_from=333.788&vd_source=d496a4b7477de878a88c60b654607663)
 
 ## Heterogeneous Nerual Network
   - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103v4.pdf) : RGCN(2018 The Semantic Web)

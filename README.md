@@ -11,9 +11,9 @@ A List of Heterogeneous Nerual Network Pappers
   - what the means of Heterogeneous Nerual Network ? 
   - what the means of meta-path ?
   - what the means of neighborhood of specific meta-path ?
+  - what the means of neighbor-sample ?
   - what the means of n-hops ?
   - why the number of n-hops is small (< 3 usually) ?
-  - what the means of neighbor-sample ?
   - what the advantages of metapath-based methods ?
   - what the advantages of neighbor-sample-based methods ?
 

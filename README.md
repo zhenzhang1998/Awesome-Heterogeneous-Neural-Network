@@ -6,6 +6,7 @@ A List of Heterogeneous Nerual Network Pappers
   - [GCN Teaching Video](https://www.bilibili.com/video/BV1Hs4y157Ls/?spm_id_from=333.788&vd_source=d496a4b7477de878a88c60b654607663)
   - [Tool: PyG](https://pytorch-geometric.readthedocs.io/en/latest/index.html)
   - [Tool: DGL](https://docs.dgl.ai/en/latest/)
+  - [Tool: Torch.Sparse](https://pytorch.org/docs/stable/sparse.html?highlight=torch+sparse#module-torch.sparse)
 
 ## Figure out the concepts
   - what the means of Heterogeneous Nerual Network ? 

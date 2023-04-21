@@ -32,3 +32,6 @@
   - [Meta-node: A Concise Approach to Effectively Learn Complex Relationships in Heterogeneous Graphs](https://arxiv.org/abs/2210.14480) : Meta-node(2022)
   - [Simple and Efficient Heterogeneous Graph Neural Network](http://arxiv.org/abs/2207.02547) : SeHGNN(AAAI 2023)
   - updating...
+
+## Heterogeneous Nerual Network & Social Recommendation
+  - [Hierarchical representation learning for bipartite graphs](https://www.ijcai.org/Proceedings/2019/0398.pdf) : Bi-HGG(IJCAI 2019)

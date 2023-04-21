@@ -35,3 +35,4 @@
 
 ## Heterogeneous Nerual Network & Social Recommendation
   - [Hierarchical representation learning for bipartite graphs](https://www.ijcai.org/Proceedings/2019/0398.pdf) : Bi-HGG(IJCAI 2019)
+  - [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications](https://ieeexplore.ieee.org/document/9101846) : HiGNN(ICDE 2020)

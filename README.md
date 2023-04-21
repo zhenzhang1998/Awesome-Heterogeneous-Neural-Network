@@ -1,4 +1,4 @@
-# Awesome Heterogeneous Nerual Network
+# Awesome Heterogeneous Neural Network
 🎉🎉🎉 A List of Heterogeneous Neural Network Pappers 🎉🎉🎉
 ![Awesome](awesome.png)
 

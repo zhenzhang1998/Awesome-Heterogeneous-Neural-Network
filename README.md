@@ -21,6 +21,7 @@
   
 ## Useful Third-Tools
   - [gtrick](https://github.com/sangyx/gtrick) : Common Trick for GNN Training.
+  - [GNN](src/model.py) : Common GNN implementation by PyG
 
 ## Heterogeneous Nerual Network
   - [Inductive Representation Learning on Large Graphs](https://export.arxiv.org/pdf/1706.02216.pdf) : GraphSAGE(2017 NeurIPS)

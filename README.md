@@ -18,6 +18,9 @@
   - why the number of n-hops is small (< 3 usually) ?
   - what the advantages of metapath-based methods ?
   - what the advantages of neighbor-sample-based methods ?
+  
+## Useful Third-Tools
+  - [gtrick](https://github.com/sangyx/gtrick)
 
 ## Heterogeneous Nerual Network
   - [Inductive Representation Learning on Large Graphs](https://export.arxiv.org/pdf/1706.02216.pdf) : GraphSAGE(2017 NeurIPS)

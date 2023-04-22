@@ -20,7 +20,7 @@
   - what the advantages of neighbor-sample-based methods ?
   
 ## Useful Third-Tools
-  - [gtrick](https://github.com/sangyx/gtrick)
+  - [gtrick](https://github.com/sangyx/gtrick) : Common Trick for GNN Training.
 
 ## Heterogeneous Nerual Network
   - [Inductive Representation Learning on Large Graphs](https://export.arxiv.org/pdf/1706.02216.pdf) : GraphSAGE(2017 NeurIPS)

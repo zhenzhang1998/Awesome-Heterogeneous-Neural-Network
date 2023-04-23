@@ -189,6 +189,8 @@ class GatedGraphGCN(torch.nn.Module):
 
 
 class GraphGCN(torch.nn.Module):
+    # https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.nn.conv.GraphConv.html
+    # 在融合特征时, 考虑了边权的因素
     def __init__(self, in_channels, hidden_channels, out_channels, num_relations, n_layers=3):
         super().__init__()
         self.convs = torch.nn.ModuleList()

@@ -23,7 +23,7 @@
   - [gtrick](https://github.com/sangyx/gtrick) : Common Trick for GNN Training.
   - [GNN](src/model.py) : Common GNN implementation with PyG
 
-## Heterogeneous Nerual Network
+## Heterogeneous Nerual Network Papers
   - [Inductive Representation Learning on Large Graphs](https://export.arxiv.org/pdf/1706.02216.pdf) : GraphSAGE(2017 NeurIPS)
   - [Modeling Relational Data with Graph Convolutional Networks](https://arxiv.org/pdf/1703.06103v4.pdf) : RGCN(2018 The Semantic Web)
   - [Heterogeneous Graph Neural Network](https://dl.acm.org/doi/pdf/10.1145/3292500.3330961) : HetGNN(2019 KDD)
@@ -37,7 +37,7 @@
   - [Simple and Efficient Heterogeneous Graph Neural Network](http://arxiv.org/abs/2207.02547) : SeHGNN(2023 AAAI)
   - updating...
 
-## Heterogeneous Nerual Network & Social Recommendation
+## Heterogeneous Nerual Network & Social Recommendation Papers
   - [Hierarchical representation learning for bipartite graphs](https://www.ijcai.org/Proceedings/2019/0398.pdf) : Bi-HGG(2019 IJCAI)
   - [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications](https://ieeexplore.ieee.org/document/9101846) : HiGNN(2020 ICDE)
   - [DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844) : DiffNet++(2020 TKDE)

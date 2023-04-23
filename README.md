@@ -41,4 +41,5 @@
   - [Hierarchical representation learning for bipartite graphs](https://www.ijcai.org/Proceedings/2019/0398.pdf) : Bi-HGG(IJCAI 2019)
   - [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications](https://ieeexplore.ieee.org/document/9101846) : HiGNN(ICDE 2020)
   - [DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844) : DiffNet++(TKDE 2020)
+  - [A Graph Neural Network Framework for Social Recommendations](https://ieeexplore.ieee.org/document/9139346) : GraphRec+(TKDE 2022)
   - [A Survey of Graph Neural Networks for Social Recommender Systems](https://arxiv.org/pdf/2212.04481) : Survey(2022)

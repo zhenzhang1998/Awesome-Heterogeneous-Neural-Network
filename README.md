@@ -34,15 +34,15 @@
   - [Heterogeneous Graph Neural Network via Attribute Completion](https://dl.acm.org/doi/abs/10.1145/3442381.3449914) : HGNN-AC(2021 WWW)
   - [Multiplex Heterogeneous Graph Convolutional Network](https://arxiv.org/pdf/2208.06129) : MHGCN(2022 KDD)
   - [Meta-node: A Concise Approach to Effectively Learn Complex Relationships in Heterogeneous Graphs](https://arxiv.org/abs/2210.14480) : Meta-node(2022)
-  - [Simple and Efficient Heterogeneous Graph Neural Network](http://arxiv.org/abs/2207.02547) : SeHGNN(AAAI 2023)
+  - [Simple and Efficient Heterogeneous Graph Neural Network](http://arxiv.org/abs/2207.02547) : SeHGNN(2023 AAAI)
   - updating...
 
 ## Heterogeneous Nerual Network & Social Recommendation
-  - [Hierarchical representation learning for bipartite graphs](https://www.ijcai.org/Proceedings/2019/0398.pdf) : Bi-HGG(IJCAI 2019)
-  - [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications](https://ieeexplore.ieee.org/document/9101846) : HiGNN(ICDE 2020)
-  - [DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844) : DiffNet++(TKDE 2020)
-  - [A Graph Neural Network Framework for Social Recommendations](https://ieeexplore.ieee.org/document/9139346) : GraphRec+(TKDE 2022)
+  - [Hierarchical representation learning for bipartite graphs](https://www.ijcai.org/Proceedings/2019/0398.pdf) : Bi-HGG(2019 IJCAI)
+  - [Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications](https://ieeexplore.ieee.org/document/9101846) : HiGNN(2020 ICDE)
+  - [DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation](https://arxiv.org/abs/2002.00844) : DiffNet++(2020 TKDE)
+  - [A Graph Neural Network Framework for Social Recommendations](https://ieeexplore.ieee.org/document/9139346) : GraphRec+(2022 TKDE)
   - [A Survey of Graph Neural Networks for Social Recommender Systems](https://arxiv.org/pdf/2212.04481) : Graph-Social-Recommender-Systems Survey(2022)
-  - [Disentangled Contrastive Learning for Social Recommendation](https://arxiv.org/abs/2208.08723v1): DcRec(CIKM 2022)
-  - [Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network](https://arxiv.org/pdf/2202.03392.pdf) : SCGRec(WWW 2022)
+  - [Disentangled Contrastive Learning for Social Recommendation](https://arxiv.org/abs/2208.08723v1): DcRec(2022 CIKM)
+  - [Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network](https://arxiv.org/pdf/2202.03392.pdf) : SCGRec(2022 WWW)
   - updating

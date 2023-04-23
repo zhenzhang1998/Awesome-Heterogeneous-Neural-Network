@@ -44,4 +44,5 @@
   - [A Graph Neural Network Framework for Social Recommendations](https://ieeexplore.ieee.org/document/9139346) : GraphRec+(TKDE 2022)
   - [A Survey of Graph Neural Networks for Social Recommender Systems](https://arxiv.org/pdf/2212.04481) : Graph-Social-Recommender-Systems Survey(2022)
   - [Disentangled Contrastive Learning for Social Recommendation](https://arxiv.org/abs/2208.08723v1): DcRec(CIKM 2022)
+  - [Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network](https://arxiv.org/pdf/2202.03392.pdf) : SCGRec(WWW 2022)
   - updating

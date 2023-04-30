@@ -45,4 +45,5 @@
   - [A Survey of Graph Neural Networks for Social Recommender Systems](https://arxiv.org/pdf/2212.04481) : Graph-Social-Recommender-Systems Survey(2022)
   - [Disentangled Contrastive Learning for Social Recommendation](https://arxiv.org/abs/2208.08723v1): DcRec(2022 CIKM)
   - [Large-scale Personalized Video Game Recommendation via Social-aware Contextualized Graph Neural Network](https://arxiv.org/pdf/2202.03392.pdf) : SCGRec(2022 WWW)
+  - [Inhomogeneous Social Recommendation with Hypergraph Convolutional Networks](https://arxiv.org/pdf/2111.03344.pdf) : SHGCN(2022 ICDE)
   - updating
